@@ -1,0 +1,10 @@
+BallGameContent\spr_cannon_blue.xnb
+BallGameContent\spr_bar.xnb
+BallGameContent\spr_gm.xnb
+BallGameContent\snd_collect_points.xnb
+BallGameContent\snd_collect_points.wma
+BallGameContent\snd_music.xnb
+BallGameContent\snd_music.wma
+BallGameContent\gameover.xnb
+BallGameContent\gameover.wma
+BallGameContent\SpriteFont1.xnb

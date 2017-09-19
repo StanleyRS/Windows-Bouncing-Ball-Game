@@ -1,0 +1,15 @@
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BallGameContent\spr_cannon_blue.xnb
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BallGameContent\spr_bar.xnb
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BallGameContent\spr_gm.xnb
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BallGameContent\snd_collect_points.xnb
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BallGameContent\snd_music.xnb
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BallGameContent\gameover.xnb
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BallGameContent\SpriteFont1.xnb
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BallGameContent\snd_collect_points.wma
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BallGameContent\snd_music.wma
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BallGameContent\gameover.wma
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BouncnigBallWindowsGame.exe
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\bin\x86\Release\BouncnigBallWindowsGame.pdb
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\obj\x86\Release\BouncnigBallWindowsGame.exe
+C:\Users\Stanley\Documents\Visual Studio 2012\Projects\BouncnigBallWindowsGame\BouncnigBallWindowsGame\BouncnigBallWindowsGame\obj\x86\Release\BouncnigBallWindowsGame.pdb
