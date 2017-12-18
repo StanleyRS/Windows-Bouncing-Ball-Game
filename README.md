@@ -1,2 +1,2 @@
 # Windows-Bouncing-Ball-Game
-My first windows game that i've been working on and also using it for studying.
+My first windows game made with XNA 4.0
